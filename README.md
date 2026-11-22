@@ -26,4 +26,6 @@ Dual GPUs are best for performance, though they can introduce a few issues on Li
 **Upgradability**: Decide whether you want to upgrade your laptop's RAM, SSD, or Wi-Fi card. If you want that option, look for parts that are not soldered to the motherboard.
 
 **Note**: Soldered RAM/CPU offers better performance than upgradable parts, but the laptop may become outdated or slow over time until you have no choice but to buy a new one. If the laptop is upgradable, you can upgrade it as you use it.
-That's all.
+
+
+**Note that this a matter of personal opinion. Anyone else can think otherwise. Everyone can be more accurate and have better opinion than I.**
